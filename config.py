@@ -1,4 +1,4 @@
-class ModelConfig(object):
+class ModelConfig(object): 
     data_dir = None
     debug = 'store_true'
     # debug = False
